@@ -55,7 +55,7 @@ setup(
 
     # https://pypi.org/classifiers/
     classifiers=[
-        'Development Status:: 3 - Alpha',
+        'Development Status :: 3 - Alpha',
         'Topic :: Software Development :: Code Generators',
         'Topic :: Software Development :: Libraries',
         'Topic :: Utilities',
