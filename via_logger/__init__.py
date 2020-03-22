@@ -1,7 +1,7 @@
 import logging
 from colored import fg, attr
 from typing import List
-from utils import *
+from .utils import *
 
 
 class BeautifulFormatter(logging.Formatter):
